@@ -46,7 +46,7 @@ public class Ejercicio_01 {
             
         }while(continuar==true);
         
-        System.out.println("\nMostrando ArrayList(Raza de PerrosDogo): ");
+        System.out.println("\nMostrando ArrayList(Raza de Perros): ");
         
         for(String i: RazaPerro){
             System.out.println(i);
